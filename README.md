@@ -1,14 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header.svg" width="100%" alt="Tsiory Jonathan, full-stack developer. 1st CTF Madagascar CyberFest, 2nd WebCup Madagascar, 3rd FANILO Hackathon, 2026.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header.svg?v=3" width="100%" alt="Tsiory Jonathan, full-stack developer. 1st CTF Madagascar CyberFest, 2nd WebCup Madagascar, 3rd FANILO Hackathon, 2026.">
 </picture>
 
+<p align="center">
 <a href="https://tsiory-jonathan.is-a.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button-dark.svg">
-    <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button.svg" alt="Open my portfolio: tsiory-jonathan.is-a.dev" height="60">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button-dark.svg?v=3">
+    <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button.svg?v=3" alt="View my portfolio: tsiory-jonathan.is-a.dev" height="76">
   </picture>
 </a>
+</p>
 
 <table>
 <tr>

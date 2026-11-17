@@ -1,21 +1,38 @@
-# Tsiory Jonathan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/banner.svg" width="100%" alt="Tsiory Jonathan, full-stack developer">
+</picture>
 
-Full-stack developer in Antananarivo, Madagascar. Third-year software student at HEI.
-Portfolio: [tsiory-jonathan.is-a.dev](https://tsiory-jonathan.is-a.dev)
+Third-year software student at HEI. I build web apps from the database to the screen, tested and shipped through CI.
 
-**2026:** 1st, CTF Madagascar CyberFest (pair) · 2nd, WebCup Madagascar · 3rd, FANILO Hackathon
+**2026:** 1st CTF Madagascar CyberFest (pair) · 2nd WebCup Madagascar · 3rd FANILO Hackathon
 
-## Selected work
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/TsioryJonathan/karama-ko"><img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/karama-ko.jpg" alt="Karama-Ko"></a>
+<br><b><a href="https://github.com/TsioryJonathan/karama-ko">Karama-Ko</a></b>
+<br>Salary calculator for Madagascar, with 150+ tests and end-to-end checks.
+<br><sub>React · TypeScript · Vite · Playwright</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/TsioryJonathan/air-quality-api"><img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/air-quality-api.jpg" alt="Air Quality API"></a>
+<br><b><a href="https://github.com/TsioryJonathan/air-quality-api">Air Quality API</a></b>
+<br>REST API on air quality data from six cities, with alert rules.
+<br><sub>C# · ASP.NET Core · EF Core · PostgreSQL · xUnit</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/0nlyDevs/checky-platform"><img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/checky.jpg" alt="Checky"></a>
+<br><b><a href="https://github.com/0nlyDevs/checky-platform">Checky</a></b>
+<br>Fact-checking for newsrooms. 3rd at FANILO, team of 4.
+<br><sub>Next.js · FastAPI · PostgreSQL</sub>
+</td>
+</tr>
+</table>
 
-| Project | What it is | Stack |
-|---|---|---|
-| [Karama-Ko](https://github.com/TsioryJonathan/karama-ko) | Salary calculator and workshop for Madagascar. [Live](https://karama-ko.vercel.app) | React, TypeScript, Vite, Vitest, Playwright |
-| [Air Quality API](https://github.com/TsioryJonathan/air-quality-api) | REST API on air quality data from six cities, with alert rules | C#, ASP.NET Core, EF Core, PostgreSQL, xUnit |
-| [Checky](https://github.com/0nlyDevs/checky-platform) | Fact-checking for newsrooms, 3rd at FANILO. [Live](https://checky-mg.vercel.app) | Next.js, FastAPI, PostgreSQL |
-| [OpenRecon](https://github.com/TsioryJonathan/openrecon-api) | OSINT reconnaissance API and dashboard | FastAPI, Next.js, PostgreSQL |
-| [Bubble](https://github.com/0nlyDevs/bubble) | Citizen services portal built in 24 hours, 2nd at WebCup Madagascar | Next.js, Prisma, Better Auth |
-| [Air Quality ETL](https://github.com/0nlyDevs/air-quality-etl) | Airflow pipeline that feeds the API: hourly AQI for six cities into a star schema | Python, Airflow, PostgreSQL |
-| [mvola-client](https://github.com/TsioryJonathan/mvola-client) | MVola payments client, published on npm | TypeScript |
-| [Fanilo Ticket](https://github.com/TsioryJonathan/fanilo-event-qr-code-scanner) | QR ticket scanner used at a real festival. [Live](https://faniloticket.vercel.app) | Next.js, Prisma |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/contributions.svg" width="100%" alt="Contribution graph">
+</picture>
 
-More Java: [agricultural-federation-management](https://github.com/TsioryJonathan/agricultural-federation-management), [practice-integration-test](https://github.com/TsioryJonathan/practice-integration-test), [employees-api-poja](https://github.com/TsioryJonathan/employees-api-poja) (AWS Lambda via Poja).
+[Portfolio](https://tsiory-jonathan.is-a.dev) · [All projects](https://github.com/TsioryJonathan?tab=repositories) · [0nlyDevs](https://github.com/0nlyDevs)

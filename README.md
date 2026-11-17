@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/banner.svg" width="100%" alt="Tsiory Jonathan, full-stack developer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/banner-dark.svg?v=2">
+  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/banner.svg?v=2" width="100%" alt="Tsiory Jonathan, full-stack developer">
 </picture>
 
 Third-year software student at HEI. I build web apps from the database to the screen, tested and shipped through CI.

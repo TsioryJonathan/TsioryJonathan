@@ -6,8 +6,8 @@
 <p align="center">
 <a href="https://tsiory-jonathan.is-a.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button-dark.svg?v=3">
-    <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button.svg?v=3" alt="View my portfolio: tsiory-jonathan.is-a.dev" height="76">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button-dark.svg?v=4">
+    <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button.svg?v=4" alt="View my portfolio: tsiory-jonathan.is-a.dev" height="140">
   </picture>
 </a>
 </p>
@@ -34,5 +34,7 @@
 </td>
 </tr>
 </table>
+
+<br>
 
 [All projects](https://github.com/TsioryJonathan?tab=repositories) · [0nlyDevs](https://github.com/0nlyDevs)

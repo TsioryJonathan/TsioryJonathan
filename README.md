@@ -13,6 +13,8 @@ Portfolio: [tsiory-jonathan.is-a.dev](https://tsiory-jonathan.is-a.dev)
 | [Air Quality API](https://github.com/TsioryJonathan/air-quality-api) | REST API on air quality data from six cities, with alert rules | C#, ASP.NET Core, EF Core, PostgreSQL, xUnit |
 | [Checky](https://github.com/0nlyDevs/checky-platform) | Fact-checking for newsrooms, 3rd at FANILO. [Live](https://checky-mg.vercel.app) | Next.js, FastAPI, PostgreSQL |
 | [OpenRecon](https://github.com/TsioryJonathan/openrecon-api) | OSINT reconnaissance API and dashboard | FastAPI, Next.js, PostgreSQL |
+| [Bubble](https://github.com/0nlyDevs/bubble) | Citizen services portal built in 24 hours, 2nd at WebCup Madagascar | Next.js, Prisma, Better Auth |
+| [Air Quality ETL](https://github.com/0nlyDevs/air-quality-etl) | Airflow pipeline that feeds the API: hourly AQI for six cities into a star schema | Python, Airflow, PostgreSQL |
 | [mvola-client](https://github.com/TsioryJonathan/mvola-client) | MVola payments client, published on npm | TypeScript |
 | [Fanilo Ticket](https://github.com/TsioryJonathan/fanilo-event-qr-code-scanner) | QR ticket scanner used at a real festival. [Live](https://faniloticket.vercel.app) | Next.js, Prisma |
 

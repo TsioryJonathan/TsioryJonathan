@@ -1,16 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/banner-dark.svg?v=2">
-  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/banner.svg?v=2" width="100%" alt="Tsiory Jonathan, full-stack developer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header-dark.svg">
+  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header.svg" width="100%" alt="Tsiory Jonathan, full-stack developer. 1st CTF Madagascar CyberFest, 2nd WebCup Madagascar, 3rd FANILO Hackathon, 2026.">
 </picture>
-
-Third-year software student at HEI. I build web apps from the database to the screen, tested and shipped through CI.
-
-**2026:** 1st CTF Madagascar CyberFest (pair) · 2nd WebCup Madagascar · 3rd FANILO Hackathon
 
 <a href="https://tsiory-jonathan.is-a.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-dark.svg">
-    <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio.svg" alt="Open my portfolio: tsiory-jonathan.is-a.dev" height="56">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button-dark.svg">
+    <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-button.svg" alt="Open my portfolio: tsiory-jonathan.is-a.dev" height="60">
   </picture>
 </a>
 
@@ -36,10 +32,5 @@ Third-year software student at HEI. I build web apps from the database to the sc
 </td>
 </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/contributions.svg" width="100%" alt="Contribution graph">
-</picture>
 
 [All projects](https://github.com/TsioryJonathan?tab=repositories) · [0nlyDevs](https://github.com/0nlyDevs)

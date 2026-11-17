@@ -7,6 +7,13 @@ Third-year software student at HEI. I build web apps from the database to the sc
 
 **2026:** 1st CTF Madagascar CyberFest (pair) · 2nd WebCup Madagascar · 3rd FANILO Hackathon
 
+<a href="https://tsiory-jonathan.is-a.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio-dark.svg">
+    <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/portfolio.svg" alt="Open my portfolio: tsiory-jonathan.is-a.dev" height="56">
+  </picture>
+</a>
+
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -35,4 +42,4 @@ Third-year software student at HEI. I build web apps from the database to the sc
   <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/contributions.svg" width="100%" alt="Contribution graph">
 </picture>
 
-[Portfolio](https://tsiory-jonathan.is-a.dev) · [All projects](https://github.com/TsioryJonathan?tab=repositories) · [0nlyDevs](https://github.com/0nlyDevs)
+[All projects](https://github.com/TsioryJonathan?tab=repositories) · [0nlyDevs](https://github.com/0nlyDevs)

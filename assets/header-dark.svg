@@ -11,31 +11,34 @@
 @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
+<clipPath id="r"><rect width="1200" height="700" rx="36"/></clipPath>
+<g clip-path="url(#r)">
 <rect width="1200" height="700" fill="#0C0C0E"/>
-<g opacity=".09"><circle cx="1090" cy="70" r="150" fill="#F08CA4"/><circle cx="1150" cy="230" r="70" fill="#F08CA4"/></g>
+<g opacity=".09"><circle cx="1090" cy="70" r="150" fill="#D4956C"/><circle cx="1150" cy="230" r="70" fill="#D4956C"/></g>
 <text class="rise" x="56" y="160" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="144" letter-spacing="-5" fill="#F2EFE8">Tsiory Jonathan</text>
-<rect class="grow" x="62" y="192" width="64" height="6" rx="3" fill="#F08CA4"/>
-<text class="fade" style="animation-delay:.2s" x="62" y="238" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-size="24" fill="#F08CA4"><tspan font-weight="700">Full-stack developer</tspan><tspan font-weight="500" dx="12">Antananarivo, Madagascar</tspan></text>
-<rect class="blink" x="602" y="219" width="12" height="24" rx="2" fill="#F08CA4"/>
+<rect class="grow" x="62" y="192" width="64" height="6" rx="3" fill="#F2B38A"/>
+<text class="fade" style="animation-delay:.2s" x="62" y="238" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-size="24" fill="#F2B38A"><tspan font-weight="700">Full-stack developer</tspan><tspan font-weight="500" dx="12">Antananarivo, Madagascar</tspan></text>
+<rect class="blink" x="602" y="219" width="12" height="24" rx="2" fill="#F2B38A"/>
 <text class="rise" style="animation-delay:.25s" x="62" y="338" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="52" letter-spacing="-1.5" fill="#F2EFE8">I build web apps from the database</text>
 <text class="rise" style="animation-delay:.3s" x="62" y="398" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="52" letter-spacing="-1.5" fill="#F2EFE8">to the screen.</text>
 <text class="fade" style="animation-delay:.35s" x="62" y="446" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="24" fill="#A9A7A0">Third-year software student at HEI · tested and shipped through CI</text>
 <g class="rise" style="animation-delay:0.40s">
 <rect x="56" y="490" width="336" height="170" rx="22" fill="#17171A"/>
-<text x="82" y="572" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="64" letter-spacing="-2" fill="#F08CA4">1st</text>
+<text x="82" y="572" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="64" letter-spacing="-2" fill="#F2B38A">1st</text>
 <text x="82" y="613" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="21" fill="#F2EFE8">CTF Madagascar CyberFest</text>
 <text x="82" y="640" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="17" fill="#A9A7A0">2026 · as a pair</text>
 </g>
 <g class="rise" style="animation-delay:0.46s">
 <rect x="428" y="490" width="336" height="170" rx="22" fill="#17171A"/>
-<text x="454" y="572" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="64" letter-spacing="-2" fill="#F08CA4">2nd</text>
+<text x="454" y="572" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="64" letter-spacing="-2" fill="#F2B38A">2nd</text>
 <text x="454" y="613" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="21" fill="#F2EFE8">WebCup Madagascar</text>
 <text x="454" y="640" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="17" fill="#A9A7A0">24-hour web competition, 2026</text>
 </g>
 <g class="rise" style="animation-delay:0.52s">
 <rect x="800" y="490" width="336" height="170" rx="22" fill="#17171A"/>
-<text x="826" y="572" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="64" letter-spacing="-2" fill="#F08CA4">3rd</text>
+<text x="826" y="572" font-family="'Cabinet Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="64" letter-spacing="-2" fill="#F2B38A">3rd</text>
 <text x="826" y="613" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="21" fill="#F2EFE8">FANILO Hackathon</text>
 <text x="826" y="640" font-family="'Satoshi','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="17" fill="#A9A7A0">11 teams, with Checky, 2026</text>
+</g>
 </g>
 </svg>

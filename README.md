@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header-dark.svg?v=7">
-  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header.svg?v=7" width="100%" alt="Tsiory Jonathan, full-stack developer. 1st CTF Madagascar CyberFest, 2nd WebCup Madagascar, 3rd FANILO Hackathon, 2026.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header-dark.svg?v=8">
+  <img src="https://raw.githubusercontent.com/TsioryJonathan/TsioryJonathan/main/assets/header.svg?v=8" width="100%" alt="Tsiory Jonathan, full-stack developer. 1st CTF Madagascar CyberFest, 2nd WebCup Madagascar, 3rd FANILO Hackathon, 2026.">
 </picture>
 
 <p align="center">
@@ -28,3 +28,4 @@
 </p>
 
 <p align="center"><a href="https://github.com/TsioryJonathan?tab=repositories">All projects</a> · <a href="https://github.com/0nlyDevs">0nlyDevs</a></p>
+

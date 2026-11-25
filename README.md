@@ -28,4 +28,5 @@
 </p>
 
 <p align="center"><a href="https://github.com/TsioryJonathan?tab=repositories">All projects</a> · <a href="https://github.com/0nlyDevs">0nlyDevs</a></p>
+![](https://hit.yhype.me/github/profile?account_id=167012196)
 
